@@ -30,6 +30,10 @@ const Section = () => {
 
               <ul>
                 <li>
+                  {toolsTechnologies.html}, {toolsTechnologies.css} (SASS, Bootstrap)
+                </li>
+
+                <li>
                   {toolsTechnologies.react} (Redux, {toolsTechnologies.reactRouter}, Next.js)
                 </li>
 
@@ -43,10 +47,6 @@ const Section = () => {
               </span>
 
               <ul>
-                <li>
-                  {toolsTechnologies.html}, {toolsTechnologies.css} (SASS, Bootstrap)
-                </li>
-
                 <li>
                   {toolsTechnologies.js}
                 </li>
