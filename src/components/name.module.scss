@@ -1,0 +1,17 @@
+@import "../app/variables";
+
+.wrapper {
+  width: 100%;
+  margin-top: 40px;
+  text-align: center;
+
+  .title {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .subtitle {
+    font-size: 22px;
+    color: $gray;
+  }
+}

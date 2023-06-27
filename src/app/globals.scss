@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./variables";
+
+:root {
+  color: $dark;
+}
+
+body {
+  max-width: 595px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: inside;
+}
+
