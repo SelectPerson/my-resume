@@ -14,7 +14,7 @@ const Name = () => {
           Summary
         </div>}
         content={<div>
-          I have 3 years commercial experience. My strongest skills are React.js and Vue.js, also can perform general tasks on the Back-End side as Node.js (Express.js, Nest.js) and PHP (Laravel). I am considering options for the position as Front-End or Full-Stack. One of the priorities is the development of a quality product and its support, as well as communication with the team and the achievement of final results. Always ready for new challenges.
+          I have 3 years of commercial experience. My strongest skills are React.js and Vue.js, also can perform general tasks on the Back-End side as Node.js (Express.js, Nest.js) and PHP (Laravel). I am considering options for the position as Front-End or Full-Stack. One of the priorities is the development of a quality product and its support, as well as communication with the team and the achievement of final results. Always ready for new challenges.
         </div>}
       />
     </div>
